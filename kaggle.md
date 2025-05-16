@@ -8,5 +8,5 @@
 ML UDEMY COURSE
 - Feature scaling is only applied on columns (basically whole feature)
 - Feature scaling:
-- - Normalization 
-- - Standardization
+    - Normalization : (X-Xmin)/(Xmax-Xmin) , Range: [0,1]
+    - Standardization : (X-mean)/SD , Range is mostly [-3,3] as ~99.7% values lie in b/w this range in normal distribution. Values out of this range are outliers.
