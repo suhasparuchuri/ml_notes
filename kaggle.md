@@ -8,5 +8,5 @@
 ML UDEMY COURSE
 - Feature scaling is only applied on columns (basically whole feature)
 - Feature scaling:
-- - Normalization 
-- - Standardization
+  - Normalization 
+  - Standardization
