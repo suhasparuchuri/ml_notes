@@ -1,2 +1,7 @@
 - Monolith architecture  is where frontend and backend are coupled together in a same src folder without usage of an API
 - Demolish this monolith architecture so that we can implement new layer to access backend which is API.
+- Fast API is built mainly on two libs
+  - Starlette manages how your api receives requests and sends back responses (it uses ASGI (Asynchronous Server Gateway Interface)
+  - Pydantic is a data validation library
+- It uses Uvicorn web server which is also a high performance ASGI server
+- FastAPI api code uses async and await features
