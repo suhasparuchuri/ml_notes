@@ -1,1 +1,2 @@
--Monolith architecture  is where frontend and backend are coupled together in a same src folder without usage of an API
+- Monolith architecture  is where frontend and backend are coupled together in a same src folder without usage of an API
+- Demolish this monolith architecture so that we can implement new layer to access backend which is API.
