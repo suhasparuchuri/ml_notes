@@ -1,0 +1,1 @@
+-Monolith architecture  is where frontend and backend are coupled together in a same src folder without usage of an API
